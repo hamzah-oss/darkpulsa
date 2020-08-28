@@ -37,7 +37,7 @@ echo "╠═▶ \033[92mLoading \033[0m. . ."
 sleep 5
 echo "\033[1;33m╠═▶ \033[1;32mMencari Operator \033[0m. . ."
 sleep 9
-echo "\033[1;33m╠═▶ \033[1;31mGagal Memproses Nomor."
+echo "\033[1;33m╠═▶ \033[1;31mBerhasil Memproses Nomor."
 echo "\033[1;33m╠══════════════════════════▶"
 sleep 8
 clear
@@ -73,7 +73,7 @@ echo "╠═▶ \033[92mLoading \033[0m. . ."
 sleep 5
 echo "\033[1;33m╠═▶ \033[1;32mMencari Operator \033[0m. . ."
 sleep 9
-echo "\033[1;33m╠═▶ \033[1;32mBerhasil Memproses Nomor\033[0m."
+echo "\033[1;33m╠═▶ \033[1;32Gagal Memproses Nomor\033[0m."
 echo "\033[1;33m╠══════════════════════════▶"
 sleep 1
 echo "\033[1;33m╠════════════════════════════════════════╗
